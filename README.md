@@ -35,11 +35,11 @@
 **Back**
 
 - JAVA11.0.15
-- MyBatis
 
 **Database**
 
-- MySQL
+- Oracle
+- MyBatis
 - DBeaver
 
 ### 나의 작업물
